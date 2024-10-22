@@ -15,13 +15,13 @@ App design
 ![im1.png](im1.png)
 
 Choosing currency
-![img2.png](img2.png)
-
-After exchange
 ![img3.png](img3.png)
 
+After exchange
+![img2.png](img2.png)
+
 UML diagram:
-![uml.png](uml.svg)
+![uml.png](uml.png)
 
 
 
@@ -35,9 +35,10 @@ GUI view
 
 You can change it by switch launch method calling in main file:
 
-    LaunchApp.launch("window");    -- open GUI
+    LaunchApp.launch("window");    // open GUI
 or
-    LaunchApp.launch("console");   -- open console app
+    
+    LaunchApp.launch("console");   // open console app
 
 
 
