@@ -12,16 +12,16 @@
 
 
 App design
-![img3.png](img1.png)
+![im1.png](im1.png)
 
 Choosing currency
-![img3.png](img3.png)
+![img2.png](img2.png)
 
 After exchange
 ![img3.png](img3.png)
 
 UML diagram:
-![img4.png](uml.svg)
+![uml.png](uml.svg)
 
 
 
