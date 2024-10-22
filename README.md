@@ -10,20 +10,6 @@
     App follows SOLID OPP rules and use singletons.
 
 
-# **App design**
-
-![im1.png](im1.png)
-
-
-![img3.png](img3.png)
-
-![img2.png](img2.png)
-
-UML diagram (click to zoom in):
-
-![uml.png](uml.png)
-
-
 # **Functionality:** 
 
 The app provides two modes:
@@ -36,6 +22,20 @@ You can change it by switch launch method calling in main file:
 or
     
     LaunchApp.launch("console");   // open console app
+
+
+# **App design**
+
+![im1.png](im1.png)
+
+
+![img3.png](img3.png)
+
+![img2.png](img2.png)
+
+UML diagram (click to zoom in):
+
+![uml.png](uml.png)
 
 
 
