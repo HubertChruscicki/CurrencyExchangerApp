@@ -33,7 +33,7 @@ or
 
 ![img2.png](img2.png)
 
-UML diagram (click to zoom in):
+# **UML Diagram:** 
 
 ![uml.png](uml.png)
 
