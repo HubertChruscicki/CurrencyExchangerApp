@@ -33,9 +33,5 @@ or
 
 ![img2.png](img2.png)
 
-# **UML Diagram:** 
-
-![uml.png](uml.png)
-
 
 
